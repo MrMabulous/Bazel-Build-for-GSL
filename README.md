@@ -1,2 +1,4 @@
 # Bazel-Build-for-GSL
-a Bazel workspace for Gnu Scientific Library
+A Bazel workspace for Gnu Scientific Library.
+
+Currently only setup for multifit.
